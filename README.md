@@ -7,7 +7,6 @@ College Student
 I am an aspiring full stack developer creating projects as I go throughout college.
 
 * 🌍  I'm based in Atlanta
-* 🖥️  See my portfolio at [My Portfiolo](http://brandon.me)
 * ✉️  You can contact me at [brandon28davidson@gmail.com](mailto:brandon28davidson@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Intersting Projects
