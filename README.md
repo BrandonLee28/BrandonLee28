@@ -17,11 +17,6 @@ I am currently studying Computer Science at Georgia Tech with a concentration in
 
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/BrandonLee28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
