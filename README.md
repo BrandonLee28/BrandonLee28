@@ -6,7 +6,6 @@ I am currently studying Computer Science at Georgia Tech with a concentration in
 * 🌍  I'm based in Atlanta
 * ✉️  You can contact me at [brandon28davidson@gmail.com](mailto:brandon28davidson@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Intersting Projects
 
 ### Skills
 
