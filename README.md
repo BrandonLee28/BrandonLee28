@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon
 ===============================================================================================================================
 
-College Student
 ---------------
 
-I am an aspiring full stack developer creating projects as I go throughout college.
+I am currently studying Computer Science at Georgia Tech with a concentration in intelligence and media.
 
 * 🌍  I'm based in Atlanta
 * ✉️  You can contact me at [brandon28davidson@gmail.com](mailto:brandon28davidson@gmail.com)
