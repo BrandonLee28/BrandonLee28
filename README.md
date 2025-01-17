@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon
 ===============================================================================================================================
 
-I am currently studying Computer Science at Georgia Tech with a concentration in intelligence and media.
+I am currently studying Computer Science at the Georgia Institute of Technology with a concentration in Integllience and Media.
 
 * 🌍  I'm based in Atlanta
 * ✉️  You can contact me at [brandon28davidson@gmail.com](mailto:brandon28davidson@gmail.com)
